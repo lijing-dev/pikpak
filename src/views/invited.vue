@@ -30,8 +30,8 @@
           </template>
           <template #default>
             <n-space inline>
-              <n-input type="text" size="small" :value="'https://toapp.mypikpak.com/activity/invited?code=' + invitationCode"></n-input>
-              <n-button size="small" type="primary" @click="copy('https://toapp.mypikpak.com/activity/invited?code=' + invitationCode)">复制</n-button>
+              <n-input type="text" size="small" :value="'https://toapp.mypikpak.com/activity/invited?code=' + 188371"></n-input>
+              <n-button size="small" type="primary" @click="copy('https://toapp.mypikpak.com/activity/invited?code=' + 188371)">复制</n-button>
             </n-space>
             <n-input-group >
             </n-input-group>
